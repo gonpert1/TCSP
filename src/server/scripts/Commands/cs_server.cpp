@@ -264,6 +264,7 @@ public:
         std::string uptime          = secsToTimeString(GameTime::GetUptime());
         uint32 updateTime           = sWorldUpdateTime.GetLastUpdateTime();
 
+        // Temporary modification
         // Annotate messages that interfere with client play.
         //handler->PSendSysMessage("%s", GitRevision::GetFullVersion());
 
