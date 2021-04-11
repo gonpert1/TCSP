@@ -31,6 +31,7 @@
 #endif
 #endif
 
+// extern difinition
 extern int main(int argc, char ** argv);
 extern char serviceLongName[];
 extern char serviceName[];
