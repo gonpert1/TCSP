@@ -32,7 +32,7 @@
 #endif
 
 // extern definition - check - TC3
-// extern definition - check4 - TC3 merge ok
+// extern definition - check4 - TC3 merge ok - one more try
 
 extern int main(int argc, char ** argv);
 extern char serviceLongName[];
