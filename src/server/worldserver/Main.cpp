@@ -70,6 +70,7 @@ namespace fs = boost::filesystem;
     #define _TRINITY_CORE_CONFIG  "worldserver.conf"
 #endif
 
+// Add #ifndef
 #ifndef WORLD_SLEEP_CONST
 #define WORLD_SLEEP_CONST 50
 #endif
