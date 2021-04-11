@@ -31,7 +31,7 @@
 #endif
 #endif
 
-// extern difinition - check 3
+// extern definition - check 4
 extern int main(int argc, char ** argv);
 extern char serviceLongName[];
 extern char serviceName[];
