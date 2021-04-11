@@ -70,7 +70,9 @@ namespace fs = boost::filesystem;
     #define _TRINITY_CORE_CONFIG  "worldserver.conf"
 #endif
 
+#ifndef WORLD_SLEEP_CONST
 #define WORLD_SLEEP_CONST 50
+#endif
 
 #ifdef _WIN32
 #include "ServiceWin32.h"
